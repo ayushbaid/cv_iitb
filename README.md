@@ -1,5 +1,5 @@
 # Computer Vision (CS:763, IIT Bombay)
-This repository contains some code and materials developed in IITB's course, taken by [Prof. Ajit Rajwade](https://www.cse.iitb.ac.in/~ajitvr/).
+This repository contains some code and materials developed in IITB's course, taken by [Prof. Ajit Rajwade](https://www.cse.iitb.ac.in/~ajitvr/). Please visit the repo for the full code.
 
 ### Image Registration
 The problem statement can be found [here](./image_alignment/problem_statement.pdf).
@@ -29,3 +29,16 @@ Left side is input video; right side is output.
 
 ![cars](./video_stabilization/coastguard.gif)
 
+
+
+### Compressed sensing
+
+I implemented an OMP based algorithm to perform reconstruction of the barbara image captured at different levels of compression.
+
+
+
+Here is the plot for the error v the compression factor:
+
+![err_plot](./compressed_sensing/msie_omp.png)
+
+The full report can be found [here](./compressed_sensing/report.pdf).
