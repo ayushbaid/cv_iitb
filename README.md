@@ -23,6 +23,8 @@ Using SIFT points and registering them across the frames, we can get an estimate
 
 Results:
 
-![sample1](./video_stabilization/cars.avi)
+```html
+<video src="./video_stabilization/cars.avi" width="320" height="200" controls preload></video>
+```
 
-![sample2](./video_stabilization/coastguard.avi)
+<video src="./video_stabilization/coastguard.avi" width="320" height="200" controls preload></video>
