@@ -1,4 +1,3 @@
-# Computer Vision (CS:763, IIT Bombay)
 This repository contains some code and materials developed in IITB's course, taken by [Prof. Ajit Rajwade](https://www.cse.iitb.ac.in/~ajitvr/). Please visit the repo for the full code.
 
 ### Image Registration
