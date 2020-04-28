@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
 title: Computer Vision
 description: Page showcasing the work done in the IITB's course
+show_downloads: false
